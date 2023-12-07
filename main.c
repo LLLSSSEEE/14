@@ -29,10 +29,4 @@ void main(void)
      printf("%s\n", pc);
      
      free(pc); //동적 메모리 할당(2) 
-            
-int main(int argc, char *argv[])
-{
-  
-  system("PAUSE");	
-  return 0;
 }
